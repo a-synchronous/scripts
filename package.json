@@ -1,0 +1,13 @@
+{
+  "name": "rubico",
+  "version": "1.5.19",
+  "description": "[a]synchronous scripts",
+  "author": "Richard Tong",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "github:a-synchronous/scripts"
+  },
+  "homepage": "https://github.com/a-synchronous/scripts"
+}
